@@ -1,4 +1,4 @@
-class Solution {
+class A006 {
     boolean solution(String s) {
         boolean answer = true;
         String[] arr= s.split("");

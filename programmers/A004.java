@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class A004 {
     public int[] solution(int[] arr, int divisor) {
         int[] answer = {};
         ArrayList<Integer> list = new ArrayList<Integer>();

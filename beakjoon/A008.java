@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class Main {
+ class A008 {
 
 	public static void main(String[] args) {
 		int s_num, g_num, sum, highNum;

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class Solution {
+class A002 {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> pascal =  new ArrayList<List<Integer>>(); 
         ArrayList<Integer> row = new ArrayList<Integer>();
