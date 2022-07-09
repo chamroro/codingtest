@@ -31,5 +31,6 @@ public class A007 {
         } else result="mixed";
 
         System.out.println(result);
+        sc.close();
     }
 }
