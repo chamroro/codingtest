@@ -1,13 +1,9 @@
 import java.util.Scanner;
 
  class A008 {
-
 	public static void main(String[] args) {
 		int s_num, g_num, sum, highNum;
-
 		double avg;
-		
-		
 		Scanner sc = new Scanner(System.in);
 		s_num = sc.nextInt();
 		int count=0;
@@ -28,12 +24,9 @@ import java.util.Scanner;
 					highNum++;
 				}
 			}
-			System.out.printf("%.3f%%\n", highNum*100.0/g_num);
-			
+			System.out.printf("%.3f%%\n", highNum*100.0/g_num);	
 			count++;
 		}
-	
 		sc.close();
-	
 	}
 } 
