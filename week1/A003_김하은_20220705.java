@@ -1,7 +1,5 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-
-	
         int N = digits.length, i = N;
         while (--i >= 0) {
             if (digits[i] != 9) {
