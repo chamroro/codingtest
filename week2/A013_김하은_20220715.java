@@ -14,7 +14,7 @@ class Solution {
         }
         int result=0;
         for(int item: map.keySet()){
-            if(map.get(item)%2==1)
+            if(map.get(item)==1)
                 result=item;
         }
         return result;
