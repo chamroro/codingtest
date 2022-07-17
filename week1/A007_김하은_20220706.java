@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class A007 {
-    public static void main(String[] args) {
+class A007_김하은_20220706 {
+    static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int[] scales = new int[8];

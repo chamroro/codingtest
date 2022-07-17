@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class A017_김하은_20220707 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String input = sc.next();

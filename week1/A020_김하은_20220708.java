@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class A020_김하은_20220708 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int out = 0,in = 0;
@@ -11,6 +11,7 @@ public class Main {
             max_total = max(max_total,total);
         }
         System.out.println(max_total);
+        scan.close();
     }
  
     private static int max(int total, int i) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A033 {
+public class A033_김하은_20220708 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int[] score = new int[5];

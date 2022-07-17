@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class A046_김하은_20220717 {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         int[] count=new int[26];
@@ -16,7 +16,6 @@ public class Main {
                 flag=1;
             }
         }
-
         if(flag == 0) System.out.println("PREDAJA");
         else {
             for(Character c: player)

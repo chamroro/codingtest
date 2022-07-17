@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main{
+public class A084_김하은_20220708{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String input=sc.next();

@@ -1,10 +1,7 @@
 import java.util.*;
 
-public class Main {
-
-
+public class A110_김하은_20220707 {
     public static void main(String[] args){
-
         Scanner sc = new Scanner(System.in);
         int input=sc.nextInt();
         int money=1000-input;

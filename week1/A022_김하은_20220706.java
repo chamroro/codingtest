@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Main {
+public class A022_김하은_20220706 {
  
     public static void main(String args[]) throws Exception {
         Scanner sc = new Scanner(System.in);
@@ -20,5 +20,6 @@ public class Main {
         } else if (YoungSik > MinSik) {
             System.out.println("M " + MinSik);
         }
+        sc.close();
     }
 }

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class A019_김하은_20220706 {
     public static void main(String[] args){
         int n1, n2, n3;
         String mul;
